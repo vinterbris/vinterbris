@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
+
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)
 
 [Проект онлайн магазина respublica.ru](https://github.com/vinterbris/respublica-project)

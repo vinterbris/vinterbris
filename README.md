@@ -2,7 +2,7 @@
 
 Проект API тестов reqres.in https://github.com/vinterbris/reqres-project
 
-Проект онлайн магазина respublica https://github.com/vinterbris/qa_guru_python_9_15
+Проект онлайн магазина respublica [https://github.com/vinterbris/qa_guru_python_9_15](https://github.com/vinterbris/respublica-project)
 
 <!--
 **vinterbris/vinterbris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

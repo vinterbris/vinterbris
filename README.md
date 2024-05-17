@@ -7,6 +7,7 @@
 [Проект UI тестов онлайн магазина respublica.ru](https://github.com/vinterbris/respublica-project)
 
 [Домашние задания для CS50 Python 2023](https://github.com/me50/vinterbris)
+
 [Домашние задания для CS50 2017](https://github.com/vinterbris/Dessumiis)
 
 

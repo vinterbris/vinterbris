@@ -1,4 +1,5 @@
-### Hi there 👋
+### Привет, меня зовут Сергей
+
 
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 
@@ -11,6 +12,8 @@
 
 [Домашние задания для CS50 2017](https://github.com/vinterbris/Dessumiis)
 -->
+
+Связь со мной в телеграмм: https://t.me/vbr_s
 
 <img width="275" height="20" src="https://www.codewars.com/users/vinterbris/badges/small"/>
 

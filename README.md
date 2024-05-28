@@ -34,7 +34,7 @@
 ---
 <img width="275" height="20" src="https://www.codewars.com/users/vinterbris/badges/small"/>
 
-<img height="50" src="https://github.com/vinterbris/vinterbris/assets/21102027/8e5258ef-b5f1-4e56-9cea-aba1f20a1983"/> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ThinkPad_Logo.svg/512px-ThinkPad_Logo.svg.png"/>
+<img height="40" src="https://github.com/vinterbris/vinterbris/assets/21102027/8e5258ef-b5f1-4e56-9cea-aba1f20a1983"/> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ThinkPad_Logo.svg/512px-ThinkPad_Logo.svg.png"/>
 
 Связь со мной в [**telegram**](https://t.me/vbr_s)
 

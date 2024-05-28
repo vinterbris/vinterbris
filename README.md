@@ -17,9 +17,8 @@
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;
 </h4>
-![icons8-bash-100]()
 
-#### Примеры проектов автотестов:
+### Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)

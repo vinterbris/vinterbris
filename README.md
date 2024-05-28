@@ -1,5 +1,7 @@
 ## Привет, меня зовут Сергей
+
 Работаю QA инженером 9 лет, изучаю автоматизацию тестирования
+
 ---
 #### Стэк:
 <!--<h4 align="left">Python | Pytest | Selene | Appium | Jenkins | Allure | Selenoid | Browserstack</h4>-->
@@ -14,7 +16,7 @@
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;
 </h4>
 
-### Примеры проектов автотестов:
+#### Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)

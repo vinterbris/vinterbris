@@ -28,9 +28,12 @@
 [Домашние задания для CS50 2017](https://github.com/vinterbris/Dessumiis)
 -->
 
+
 Связь со мной в телеграмм: https://t.me/vbr_s
 
+
 <img width="275" height="20" src="https://www.codewars.com/users/vinterbris/badges/small"/>
+
 
 <img height="50" src="https://github.com/vinterbris/vinterbris/assets/21102027/8e5258ef-b5f1-4e56-9cea-aba1f20a1983"/> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ThinkPad_Logo.svg/512px-ThinkPad_Logo.svg.png"/>
 

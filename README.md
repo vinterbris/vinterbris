@@ -1,6 +1,8 @@
 ### Привет, меня зовут Сергей
 
+## Стэк:
 
+## Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)

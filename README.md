@@ -1,8 +1,21 @@
-# Привет, меня зовут Сергей
+## Привет, меня зовут Сергей
+Работаю QA инженером 9 лет, изучаю автоматизацию тестирования
 
-## Стэк:
+### Стэк:
+<h4 align="center">Python | Pytest | Selene | Appium | Jenkins | Allure | Selenoid | Browserstack | Telegram</h4>
+<h4 align="center">
+<img height="50" src="resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/Selene.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/appium.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/jenkins.png"/>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/allure.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/Selenoid.svg"/>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/browserstack.png"/>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="resources/images/telegram.png"/>
+</h4>
 
-## Примеры проектов автотестов:
+### Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)

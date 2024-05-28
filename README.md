@@ -3,18 +3,21 @@
 Работаю QA инженером 9 лет, изучаю автоматизацию тестирования
 
 ---
-#### Стэк:
+
 <!--<h4 align="left">Python | Pytest | Selene | Appium | Jenkins | Allure | Selenoid | Browserstack</h4>-->
 <h4 align="left">
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;
+<img height="50" src="https://github.com/vinterbris/vinterbris/assets/21102027/472694ac-6ec3-4845-af93-8d7fa6ea7111"/>      &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/appium.png"/>      &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/allure.png"/>      &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selenoid.svg"/>    &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;
 </h4>
+![icons8-bash-100]()
 
 #### Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)

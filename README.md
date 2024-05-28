@@ -12,6 +12,7 @@
 [Домашние задания для CS50 2017](https://github.com/vinterbris/Dessumiis)
 -->
 
+<img width="300" src="https://github.com/vinterbris/vinterbris/assets/21102027/12e36db7-9ed1-489b-9c2c-6721a09619be"/>
 ![image](https://github.com/vinterbris/vinterbris/assets/21102027/12e36db7-9ed1-489b-9c2c-6721a09619be)
 
 <!--

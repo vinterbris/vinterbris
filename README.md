@@ -1,6 +1,6 @@
 ## Привет, меня зовут Сергей
 Работаю QA инженером 9 лет, изучаю автоматизацию тестирования
-
+---
 ### Стэк:
 <!--<h4 align="left">Python | Pytest | Selene | Appium | Jenkins | Allure | Selenoid | Browserstack</h4>-->
 <h4 align="left">

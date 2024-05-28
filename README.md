@@ -38,7 +38,7 @@
 
 <img height="30" src="https://github.com/vinterbris/vinterbris/assets/21102027/88679b6e-746d-455e-b07c-5fa3f26fce9b"/> &nbsp;
 <img height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ThinkPad_Logo.svg/512px-ThinkPad_Logo.svg.png"/> &nbsp; &nbsp; 
-<img height="32" src="https://github.com/vinterbris/vinterbris/assets/21102027/8e5258ef-b5f1-4e56-9cea-aba1f20a1983"/> &nbsp; 
+<img height="33" src="https://github.com/vinterbris/vinterbris/assets/21102027/8e5258ef-b5f1-4e56-9cea-aba1f20a1983"/> &nbsp; 
 
 
 

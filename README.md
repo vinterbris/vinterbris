@@ -4,7 +4,7 @@
 ### Стэк:
 <h4 align="left">Python | Pytest | Selene | Appium | Jenkins | Allure | Selenoid | Browserstack | Telegram</h4>
 <h4 align="left">
-<img height="50" src="resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" src="resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" src="resources/images/Selene.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" src="resources/images/appium.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

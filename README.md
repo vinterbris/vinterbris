@@ -1,17 +1,17 @@
 ## Привет, меня зовут Сергей
 Работаю QA инженером 9 лет, изучаю автоматизацию тестирования
 ---
-### Стэк:
+#### Стэк:
 <!--<h4 align="left">Python | Pytest | Selene | Appium | Jenkins | Allure | Selenoid | Browserstack</h4>-->
 <h4 align="left">
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/appium.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/allure.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selenoid.svg"/>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/appium.png"/>      &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/allure.png"/>      &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selenoid.svg"/>    &nbsp;
+<img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;
 </h4>
 
 ### Примеры проектов автотестов:

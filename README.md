@@ -12,9 +12,7 @@
 [Домашние задания для CS50 2017](https://github.com/vinterbris/Dessumiis)
 -->
 
-<img width="275" height="20" src="https://github.com/vinterbris/vinterbris/assets/21102027/12e36db7-9ed1-489b-9c2c-6721a09619be"/>
-
-![image](https://github.com/vinterbris/vinterbris/assets/21102027/12e36db7-9ed1-489b-9c2c-6721a09619be)
+<img width="275" height="20" src="https://www.codewars.com/users/vinterbris/badges/small"/>
 
 <!--
 **vinterbris/vinterbris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

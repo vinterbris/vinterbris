@@ -5,7 +5,7 @@
 ---
 
 <!--<h4 align="left">Python | Pytest | Selene | Appium | Jenkins | Allure | Selenoid | Browserstack</h4>-->
-<h4 align="left">
+<h4 align="center">
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;

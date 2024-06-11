@@ -7,7 +7,7 @@
 <h5 align="left">Python|Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications
 </h5>
 -->
-```Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications```
+Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications
 
 <h5 align="left">
 <img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 </h5>
 -->
 
-**Linux | Docker | Jenkins**
+Linux | Docker | Jenkins
 
 <img height="35" src="https://github.com/vinterbris/vinterbris/assets/21102027/472694ac-6ec3-4845-af93-8d7fa6ea7111"/>      &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://github.com/vinterbris/vinterbris/assets/21102027/9499bfac-d604-4d79-852b-38ed7b57131e"/>      &nbsp;&nbsp;&nbsp;&nbsp;

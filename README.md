@@ -8,6 +8,7 @@
 </h5>
 -->
 `Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications`
+
 <h5 align="left">
 <img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;
 <img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;

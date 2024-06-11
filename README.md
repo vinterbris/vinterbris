@@ -7,26 +7,26 @@
 <h5 align="left">Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications
 </h5>
 <h5 align="left">
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/appium.png"/>      &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/allure.png"/>      &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selenoid.svg"/>    &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/appium.png"/>      &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/allure.png"/>      &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selenoid.svg"/>    &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;&nbsp;&nbsp;
 </h5>
 <h5 align="left">Linux | Docker | Jenkins
 </h5>
 <h5 align="left">
-<img height="30" src="https://github.com/vinterbris/vinterbris/assets/21102027/472694ac-6ec3-4845-af93-8d7fa6ea7111"/>      &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/vinterbris/assets/21102027/9499bfac-d604-4d79-852b-38ed7b57131e"/>      &nbsp;&nbsp;&nbsp;
-<img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/vinterbris/assets/21102027/472694ac-6ec3-4845-af93-8d7fa6ea7111"/>      &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/vinterbris/assets/21102027/9499bfac-d604-4d79-852b-38ed7b57131e"/>      &nbsp;&nbsp;&nbsp;
+<img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;&nbsp;&nbsp;
 </h5>
 
 
 
-### Моя инфраструктура
+## Моя инфраструктура
 `cloud.ru | ubuntu-22.04 | vCPU:2/RAM:4`
 
 [Jenkins](http://176.123.163.26:8888/)
@@ -35,7 +35,7 @@
 
 [Selenoid-UI](http://176.123.163.26:9090/#/) 
 
-### Примеры проектов автотестов:
+## Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)

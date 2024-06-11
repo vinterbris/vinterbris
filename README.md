@@ -22,7 +22,7 @@
 `cloud.ru | ubuntu-22.04 | vCPU:2/RAM:4`
 
 [Jenkins](http://176.123.163.26:8888/)
-* Python, Pytest, Allure Report
+* Python, Pytest, Allure Report, Post build task
 * [[Креды]](https://gist.github.com/vinterbris/a046a0ad0b9331041907c66e0435ee72)
 
 [Selenoid-UI](http://176.123.163.26:9090/#/)  -  

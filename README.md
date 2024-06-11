@@ -4,9 +4,8 @@
 
 ---
 
-<h4 align="center">Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications</h4>
-<h4 align="center">
-
+<h4 align="right">Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications</h4>
+<h4 align="right">
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;&nbsp;&nbsp;
@@ -16,11 +15,12 @@
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;&nbsp;&nbsp;
 </h4>
-<h4 align="center">Linux | Docker | Jenkins</h4>
-<h4 align="center">
+<h4 align="right">Linux | Docker | Jenkins</h4>
+<h4 align="right">
 <img height="50" src="https://github.com/vinterbris/vinterbris/assets/21102027/472694ac-6ec3-4845-af93-8d7fa6ea7111"/>      &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/vinterbris/assets/21102027/9499bfac-d604-4d79-852b-38ed7b57131e"/>      &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;&nbsp;&nbsp;
+</h4>
 
 ### Моя инфраструктура
 `cloud.ru | ubuntu-22.04 | vCPU:2/RAM:4`

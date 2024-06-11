@@ -23,7 +23,7 @@
 * Python, Pytest, Allure Report
 * [[Креды]](https://gist.github.com/vinterbris/a046a0ad0b9331041907c66e0435ee72)
 
-[Selenoid](http://176.123.163.26:9090/#/)  -  
+[Selenoid-UI](http://176.123.163.26:9090/#/)  -  
 
 ### Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)

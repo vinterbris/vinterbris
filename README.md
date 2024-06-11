@@ -27,7 +27,7 @@
 
 
 ## Моя инфраструктура
-`cloud.ru | ubuntu-22.04 | vCPU:2/RAM:4`
+`cloud.ru | ubuntu-22.04 | vCPU:2/RAM:4 | Docker`
 
 [Jenkins](http://176.123.163.26:8888/)
 * Python, Pytest, Allure Report

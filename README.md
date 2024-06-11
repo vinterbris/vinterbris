@@ -4,7 +4,7 @@
 
 ---
 <!--
-<h5 align="left">Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications
+<h5 align="left">Python|Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications
 </h5>
 -->
 `Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications`

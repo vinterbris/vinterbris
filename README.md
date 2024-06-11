@@ -24,7 +24,7 @@
 <img height="30" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;&nbsp;&nbsp;
 </h5>
 
----
+
 
 ### Моя инфраструктура
 `cloud.ru | ubuntu-22.04 | vCPU:2/RAM:4`

@@ -24,6 +24,7 @@
 </h5>
 -->
 `Linux | Docker | Jenkins`
+
 <img height="35" src="https://github.com/vinterbris/vinterbris/assets/21102027/472694ac-6ec3-4845-af93-8d7fa6ea7111"/>      &nbsp;&nbsp;&nbsp;
 <img height="35" src="https://github.com/vinterbris/vinterbris/assets/21102027/9499bfac-d604-4d79-852b-38ed7b57131e"/>      &nbsp;&nbsp;&nbsp;
 <img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/jenkins.png"/>     &nbsp;&nbsp;&nbsp;

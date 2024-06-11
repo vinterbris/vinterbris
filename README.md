@@ -18,7 +18,12 @@
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;&nbsp;&nbsp;
 </h4>
 
-Мои [Jenkins](http://176.123.163.26:8888/) и [Selenoid](http://176.123.163.26:9090/#/)  -  [[Креды]](https://gist.github.com/vinterbris/a046a0ad0b9331041907c66e0435ee72)
+### Моя инфраструктура
+[Jenkins](http://176.123.163.26:8888/)
+* Python, Pytest, Allure Report
+* [[Креды]](https://gist.github.com/vinterbris/a046a0ad0b9331041907c66e0435ee72)
+
+[Selenoid](http://176.123.163.26:9090/#/)  -  
 
 ### Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)

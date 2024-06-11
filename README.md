@@ -35,7 +35,7 @@
 
 [Selenoid-UI](http://176.123.163.26:9090/#/) 
 
-## Примеры проектов автотестов:
+## Примеры проектов автотестов
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)

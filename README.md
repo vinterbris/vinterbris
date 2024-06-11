@@ -10,9 +10,7 @@
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Python.png"/>      &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Pytest.svg"/>      &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selene.png"/>      &nbsp;&nbsp;&nbsp;
-
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/appium.png"/>      &nbsp;&nbsp;&nbsp;
-
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/allure.png"/>      &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/Selenoid.svg"/>    &nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;&nbsp;&nbsp;

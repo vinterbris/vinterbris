@@ -18,6 +18,8 @@
 <img height="50" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;&nbsp;&nbsp;
 </h4>
 
+Мои [Jenkins](http://176.123.163.26:8888/) и Selenoid
+
 ### Примеры проектов автотестов:
 [Проект UI и mobile тестов Notion.so](https://github.com/vinterbris/notion-project)
 

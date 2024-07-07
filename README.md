@@ -48,7 +48,7 @@ Linux | Docker | Jenkins
 
 [Проект UI тестов онлайн магазина respublica.ru](https://github.com/vinterbris/respublica-project)
 
-[Проект стабильного webdriver](https://github.com/vinterbris/webdriver-project)
+[Проект стабильной обёртки Selenium Webdriver с явными ожиданиями](https://github.com/vinterbris/webdriver-project)
 
 <!--
 [Домашние задания для CS50 Python 2023](https://github.com/me50/vinterbris)

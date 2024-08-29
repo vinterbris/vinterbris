@@ -46,7 +46,7 @@ Linux | Docker | Jenkins
 
 [Проект API тестов reqres.in](https://github.com/vinterbris/reqres-project)
 
-[Проект UI и API тестов demoqa.com]()
+[Проект UI и API тестов demoqa.com](https://github.com/vinterbris/demoqa-project)
 
 [Проект UI тестов онлайн магазина respublica.ru](https://github.com/vinterbris/respublica-project)
 

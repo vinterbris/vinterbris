@@ -58,8 +58,10 @@ Linux | Docker | Jenkins
 [Домашние задания для CS50 2017](https://github.com/vinterbris/Dessumiis)
 -->
 
+<!--
 ## Python проекты
 [BookBot - отчёт о количестве слов и букв в книге](https://github.com/vinterbris/bookbot)
+-->
 
 ---
 Связь со мной в [**telegram**](https://t.me/vbr_s)

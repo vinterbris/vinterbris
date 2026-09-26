@@ -1,3 +1,5 @@
+
+<!--
 ## Привет, меня зовут Сергей
 
 Работаю тестировщиком. Пишу автотесты на selene/selenium и python, активно изучаю программирование.
@@ -82,7 +84,7 @@ Linux | Docker | Jenkins
 
 
 
-<!--
+
 **vinterbris/vinterbris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -3,12 +3,13 @@
 ## Привет, меня зовут Сергей
 
 Работаю тестировщиком. Пишу автотесты на selene/selenium и python, активно изучаю программирование.
-
+-->
 ---
 <!--
 <h5 align="left">Python|Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications
 </h5>
 -->
+<!--
 Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger notifications
 
 <h5 align="left">
@@ -21,11 +22,12 @@ Python | Pytest | Selene | Appium | Allure | Selenoid | Browserstack | Messenger
 <img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/browserstack.png"/>    &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://github.com/vinterbris/notion-project/blob/master/resources/images/telegram.png"/>    &nbsp;&nbsp;&nbsp;&nbsp;
 </h5>
+-->
 <!--
 <h5 align="left">Linux | Docker | Jenkins
 </h5>
 -->
-
+<!--
 Linux | Docker | Jenkins
 
 <img height="35" src="https://github.com/vinterbris/vinterbris/assets/21102027/472694ac-6ec3-4845-af93-8d7fa6ea7111"/>      &nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,7 +55,7 @@ Linux | Docker | Jenkins
 [Проект UI тестов онлайн магазина respublica.ru](https://github.com/vinterbris/respublica-project)
 
 [Проект стабильной обёртки Selenium Webdriver с явными ожиданиями](https://github.com/vinterbris/webdriver-project)
-
+-->
 <!--
 [Домашние задания для CS50 Python 2023](https://github.com/me50/vinterbris)
 
@@ -64,7 +66,7 @@ Linux | Docker | Jenkins
 ## Python проекты
 [BookBot - отчёт о количестве слов и букв в книге](https://github.com/vinterbris/bookbot)
 -->
-
+<!--
 ---
 Связь со мной в [**telegram**](https://t.me/vbr_s)
 
@@ -73,6 +75,7 @@ Linux | Docker | Jenkins
 <img height="30" src="https://github.com/vinterbris/vinterbris/assets/21102027/88679b6e-746d-455e-b07c-5fa3f26fce9b"/> &nbsp;&nbsp;&nbsp;
 <img height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ThinkPad_Logo.svg/512px-ThinkPad_Logo.svg.png"/> &nbsp; &nbsp; &nbsp;
 <img height="33" src="https://github.com/vinterbris/vinterbris/assets/21102027/8e5258ef-b5f1-4e56-9cea-aba1f20a1983"/> &nbsp; 
+-->
 
 
 
@@ -82,8 +85,7 @@ Linux | Docker | Jenkins
 
 
 
-
-
+<!--
 
 **vinterbris/vinterbris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
